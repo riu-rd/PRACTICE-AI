@@ -1,0 +1,140 @@
+{
+  "source": "https://bpiaudiostorage.blob.core.windows.net/audio-files/20250619_132017_joyfully.wav",
+  "timestamp": "2025-06-19T05:20:24Z",
+  "durationInTicks": 70600000,
+  "durationMilliseconds": 7060,
+  "duration": "PT7.06S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "the delicious aroma of freshly baked bread filled the bakery",
+      "itn": "the delicious aroma of freshly baked bread filled the bakery",
+      "maskedITN": "The delicious aroma of freshly baked bread filled the bakery.",
+      "display": "The delicious aroma of freshly baked bread filled the bakery."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT1.76S",
+      "duration": "PT5.04S",
+      "offsetInTicks": 17600000.0,
+      "durationInTicks": 50400000.0,
+      "durationMilliseconds": 5040,
+      "offsetMilliseconds": 1760,
+      "nBest": [
+        {
+          "confidence": 0.93790233,
+          "lexical": "the delicious aroma of freshly baked bread filled the bakery",
+          "itn": "the delicious aroma of freshly baked bread filled the bakery",
+          "maskedITN": "The delicious aroma of freshly baked bread filled the bakery.",
+          "display": "The delicious aroma of freshly baked bread filled the bakery.",
+          "words": [
+            {
+              "word": "the",
+              "offset": "PT1.76S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 17600000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 1760,
+              "confidence": 0.9606009
+            },
+            {
+              "word": "delicious",
+              "offset": "PT1.92S",
+              "duration": "PT0.76S",
+              "offsetInTicks": 19200000.0,
+              "durationInTicks": 7600000.0,
+              "durationMilliseconds": 760,
+              "offsetMilliseconds": 1920,
+              "confidence": 0.9559722
+            },
+            {
+              "word": "aroma",
+              "offset": "PT2.68S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 26800000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 2680,
+              "confidence": 0.9116944
+            },
+            {
+              "word": "of",
+              "offset": "PT3.48S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 34800000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 3480,
+              "confidence": 0.96371424
+            },
+            {
+              "word": "freshly",
+              "offset": "PT3.64S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 36400000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 3640,
+              "confidence": 0.96481234
+            },
+            {
+              "word": "baked",
+              "offset": "PT4.12S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 41200000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 4120,
+              "confidence": 0.8562158
+            },
+            {
+              "word": "bread",
+              "offset": "PT4.76S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 47600000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 4760,
+              "confidence": 0.9666413
+            },
+            {
+              "word": "filled",
+              "offset": "PT5.32S",
+              "duration": "PT0.52S",
+              "offsetInTicks": 53200000.0,
+              "durationInTicks": 5200000.0,
+              "durationMilliseconds": 520,
+              "offsetMilliseconds": 5320,
+              "confidence": 0.95835733
+            },
+            {
+              "word": "the",
+              "offset": "PT6S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 60000000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 6000,
+              "confidence": 0.94937694
+            },
+            {
+              "word": "bakery",
+              "offset": "PT6.16S",
+              "duration": "PT0.64S",
+              "offsetInTicks": 61600000.0,
+              "durationInTicks": 6400000.0,
+              "durationMilliseconds": 640,
+              "offsetMilliseconds": 6160,
+              "confidence": 0.8916378
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

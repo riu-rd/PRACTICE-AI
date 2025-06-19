@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bpi-internship-462819",
+  "private_key_id": "ece668c2abd273bdaa63b57377c1b1f403911196",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrTCGfAVSil1oz\nXhnP5SG4R5Hsr1T0pkUItCg5x0Zl7HSNKmbcwXzfvzFkx4YwwT2WT3FX3OYbKb/u\nQfX4kd8rgmfiZ66WddLsl3htV8xQXNg1toodnu+EkvLGW+83UADdVhLIj1VcbFpp\nnujqj3lZ0YUZ1iaWdMh7l4PBNzgl+twuf/5pshNi5e9Au8v8kybZE8+x/Blc1H+4\nl9aQz5qC8ahliamkgUbGN0SyszuoS6oLVl88CKSRSLd092Z0AEtH+bXuMJDryGF/\nxtM8K4NCup1KNYqVjLQSXR2r682DlGO0OS52ho83De6JNTQme5jvTcIZSCVgzmOd\noiOxHNCFAgMBAAECggEAEmZ+qWW2Bt3K5CqvC3cZrKxkye+5k1V1o+408KPtys61\nZGE8zxN/tknY5Jz5gVeN+zf0Z75EVNWiwYACC932LZEirJ4mPGZSrnRvjLtPfgXD\nJIiZBH6JTGHmmep6jflWO8WzsH8+aaEAA0l9ITkhOBs6uMrutom77BQbTzrUbrZ7\nOmDfV87h0Mehbb/j+5+0XfLK+9X668aJqOwfzp0CzY2j1DpSMAHJWGbQ2KWuzP4u\nzxlEF4nZB5ZFhvb4G4yS9BsMsZAgEGEdbrn72+U+W0A+Ir1ka6y2y8UrhE4tIJU6\nxjO+X26jiJp0AXTkYMda1V5Dr/FcZGFfV76o30pNvwKBgQDcaUtFcOJ6wTEY2Nqv\nzWfIK03OgpdVjfqNAitwj+HIYO6yP+oIe7uTZkPudV3LQ+0hi6c1ZcEsWW/dK2W7\nJOIz1reCYJOb4kWm0KOaDHFaDhi74C9mx/5PoBoVHPuYDEflPYpJOL2eTR/KGgAY\nJdHR9ABBjdw8eHwRLtnLlm6ZHwKBgQDG9LZnBJjSGx4GwCw/tjuCi/wqfAVfF+KI\nT8AELji14y6OAPynKmjchsm7oZbwf2/qpHIt5hZ6Y+jvCvxgz0WEQ0BXiztVAkq3\ncPtJNydor6NBHr4Ns/mXBI61qpexrX5Ae5kJpd8vbXxANUIfLBYHwcO1fvPrRLt5\nVRpled7N2wKBgDRxFQizoB9G4hCgX//eJmg47W1KIwmnG0r7jixc/4J2lbRxgpR8\nJBghB96vrB5VzhDiMmmBCWIs8XG1BqJtVyiwWL87jUNUpe/XymU3uqyLmBTzdTPG\nN9roI+yMFcyKd3yylLlxN6R3gy3J2+Xi8bY7kOgIAbOdkx9ff1ByPWRPAoGAQq5P\n1/UtdvXJuX99FRlxlo5uRJruffGWZhM8iuom7acnukZQZ4KKRKcUQ8OjwBUmIGFf\nN0zvabPEpSFsdtHhPbQAg5bRmus6uYKvZdmLZsW/FJtGHXedhmTro616S/2W2+vQ\n3e/u/olWZHq1H5d6Br2FZ3YWMFsH7mF8iFgxOZMCgYBbflyVMy7nlAtL3flyQ/dJ\n6yQ3FccoWFzscmTyUPBKCmjYYvh8fm3TOxdJMPrCkW3gXVsbZvsL7Z8CJj2xIbld\nLJBVLC8rFzA3J2xNOmmM5SSfkAlgjPHaTWeUR4xjPWQmiwotNSc3ulfkCVfm2bCZ\nOnM82773hqlPDWTSbe9tLg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bpi-intern@bpi-internship-462819.iam.gserviceaccount.com",
+  "client_id": "111591558821913431567",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bpi-intern%40bpi-internship-462819.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

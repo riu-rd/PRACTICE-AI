@@ -1,0 +1,158 @@
+{
+  "processing_stats": {
+    "total_files": 4,
+    "successful": 4,
+    "failed": 0,
+    "start_time": "2025-06-19T13:24:53.122806",
+    "total_phrases": 6,
+    "total_duration": 144.29999999999998,
+    "end_time": "2025-06-19T13:27:19.303037",
+    "failed_files": []
+  },
+  "individual_results": {
+    "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\euphoric.wav": {
+      "phrases": [
+        {
+          "id": 0,
+          "text": "The Kuru still regularly.",
+          "speaker": 0,
+          "offset": "PT1.36S",
+          "sentiment": "neutral",
+          "sentiment_scores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "pii_entities": []
+        },
+        {
+          "id": 1,
+          "text": "Explores the Mass Museum exits.",
+          "speaker": 1,
+          "offset": "PT2.76S",
+          "sentiment": "neutral",
+          "sentiment_scores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "pii_entities": []
+        }
+      ],
+      "overall_summary": [],
+      "metadata": {
+        "total_phrases": 2,
+        "speakers": [
+          0,
+          1
+        ],
+        "processing_time": "2025-06-19T13:25:26.630686",
+        "processing_duration_seconds": 33.51,
+        "transcription_id": "4f294ab1-2c09-489c-92ef-fdc359626c8c",
+        "audio_url": "https://bpiaudiostorage.blob.core.windows.net/audio-files/20250619_132453_euphoric.wav",
+        "original_file": "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\euphoric.wav"
+      }
+    },
+    "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\joyfully.wav": {
+      "phrases": [
+        {
+          "id": 0,
+          "text": "The Courcheon ever explored the bass mission exhibit.",
+          "speaker": 0,
+          "offset": "PT2.04S",
+          "sentiment": "neutral",
+          "sentiment_scores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "pii_entities": []
+        }
+      ],
+      "overall_summary": [],
+      "metadata": {
+        "total_phrases": 1,
+        "speakers": [
+          0
+        ],
+        "processing_time": "2025-06-19T13:26:00.769699",
+        "processing_duration_seconds": 33.5,
+        "transcription_id": "08dc4f62-e755-46d6-b22a-4e36429f5dce",
+        "audio_url": "https://bpiaudiostorage.blob.core.windows.net/audio-files/20250619_132527_joyfully.wav",
+        "original_file": "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\joyfully.wav"
+      }
+    },
+    "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\sad.wav": {
+      "phrases": [
+        {
+          "id": 0,
+          "text": "The cooler shell XRF spawned the Wasmussian exhibit.",
+          "speaker": 0,
+          "offset": "PT1.64S",
+          "sentiment": "neutral",
+          "sentiment_scores": {
+            "positive": 0.0,
+            "neutral": 0.95,
+            "negative": 0.05
+          },
+          "pii_entities": []
+        }
+      ],
+      "overall_summary": [],
+      "metadata": {
+        "total_phrases": 1,
+        "speakers": [
+          0
+        ],
+        "processing_time": "2025-06-19T13:26:34.945555",
+        "processing_duration_seconds": 33.8,
+        "transcription_id": "e0b7b243-6051-48e6-940c-ea0a4f725add",
+        "audio_url": "https://bpiaudiostorage.blob.core.windows.net/audio-files/20250619_132601_sad.wav",
+        "original_file": "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\sad.wav"
+      }
+    },
+    "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\surprised.wav": {
+      "phrases": [
+        {
+          "id": 0,
+          "text": "The cookery chain, actually.",
+          "speaker": 0,
+          "offset": "PT1.44S",
+          "sentiment": "neutral",
+          "sentiment_scores": {
+            "positive": 0.02,
+            "neutral": 0.97,
+            "negative": 0.0
+          },
+          "pii_entities": []
+        },
+        {
+          "id": 1,
+          "text": "Explored the bass machine except.",
+          "speaker": 1,
+          "offset": "PT2.72S",
+          "sentiment": "neutral",
+          "sentiment_scores": {
+            "positive": 0.0,
+            "neutral": 0.93,
+            "negative": 0.07
+          },
+          "pii_entities": []
+        }
+      ],
+      "overall_summary": [],
+      "metadata": {
+        "total_phrases": 2,
+        "speakers": [
+          0,
+          1
+        ],
+        "processing_time": "2025-06-19T13:27:18.834398",
+        "processing_duration_seconds": 43.49,
+        "transcription_id": "7dab1990-c311-4b7a-9f27-bc2c43388607",
+        "audio_url": "https://bpiaudiostorage.blob.core.windows.net/audio-files/20250619_132635_surprised.wav",
+        "original_file": "audio_emotions/files/00026029e0--64991c0dd94c0d5726df032a\\surprised.wav"
+      }
+    }
+  }
+}

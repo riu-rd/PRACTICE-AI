@@ -1,0 +1,150 @@
+{
+  "source": "https://bpiaudiostorage.blob.core.windows.net/audio-files/20250619_115318_euphoric.wav",
+  "timestamp": "2025-06-19T03:53:24Z",
+  "durationInTicks": 51200000,
+  "durationMilliseconds": 5120,
+  "duration": "PT5.12S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "the suspenseful novel kept me on the edge of my seat",
+      "itn": "the suspenseful novel kept me on the edge of my seat",
+      "maskedITN": "The suspenseful novel kept me on the edge of my seat.",
+      "display": "The suspenseful novel kept me on the edge of my seat."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "speaker": 1,
+      "offset": "PT0.8S",
+      "duration": "PT3.56S",
+      "offsetInTicks": 8000000.0,
+      "durationInTicks": 35600000.0,
+      "durationMilliseconds": 3560,
+      "offsetMilliseconds": 800,
+      "nBest": [
+        {
+          "confidence": 0.6086304,
+          "lexical": "the suspenseful novel kept me on the edge of my seat",
+          "itn": "the suspenseful novel kept me on the edge of my seat",
+          "maskedITN": "The suspenseful novel kept me on the edge of my seat.",
+          "display": "The suspenseful novel kept me on the edge of my seat.",
+          "words": [
+            {
+              "word": "the",
+              "offset": "PT0.8S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 8000000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 800,
+              "confidence": 0.45595178
+            },
+            {
+              "word": "suspenseful",
+              "offset": "PT0.92S",
+              "duration": "PT0.76S",
+              "offsetInTicks": 9200000.0,
+              "durationInTicks": 7600000.0,
+              "durationMilliseconds": 760,
+              "offsetMilliseconds": 920,
+              "confidence": 0.14081496
+            },
+            {
+              "word": "novel",
+              "offset": "PT1.68S",
+              "duration": "PT0.56S",
+              "offsetInTicks": 16800000.0,
+              "durationInTicks": 5600000.0,
+              "durationMilliseconds": 560,
+              "offsetMilliseconds": 1680,
+              "confidence": 0.9437208
+            },
+            {
+              "word": "kept",
+              "offset": "PT2.24S",
+              "duration": "PT0.2S",
+              "offsetInTicks": 22400000.0,
+              "durationInTicks": 2000000.0,
+              "durationMilliseconds": 200,
+              "offsetMilliseconds": 2240,
+              "confidence": 0.649739
+            },
+            {
+              "word": "me",
+              "offset": "PT2.44S",
+              "duration": "PT0.28S",
+              "offsetInTicks": 24400000.0,
+              "durationInTicks": 2800000.0,
+              "durationMilliseconds": 280,
+              "offsetMilliseconds": 2440,
+              "confidence": 0.8806704
+            },
+            {
+              "word": "on",
+              "offset": "PT2.72S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 27200000.0,
+              "durationInTicks": 1200000.0,
+              "durationMilliseconds": 120,
+              "offsetMilliseconds": 2720,
+              "confidence": 0.849493
+            },
+            {
+              "word": "the",
+              "offset": "PT2.84S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 28400000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 2840,
+              "confidence": 0.964133
+            },
+            {
+              "word": "edge",
+              "offset": "PT3.04S",
+              "duration": "PT0.48S",
+              "offsetInTicks": 30400000.0,
+              "durationInTicks": 4800000.0,
+              "durationMilliseconds": 480,
+              "offsetMilliseconds": 3040,
+              "confidence": 0.64578426
+            },
+            {
+              "word": "of",
+              "offset": "PT3.52S",
+              "duration": "PT0.08S",
+              "offsetInTicks": 35200000.0,
+              "durationInTicks": 800000.0,
+              "durationMilliseconds": 80,
+              "offsetMilliseconds": 3520,
+              "confidence": 0.20630747
+            },
+            {
+              "word": "my",
+              "offset": "PT3.6S",
+              "duration": "PT0.16S",
+              "offsetInTicks": 36000000.0,
+              "durationInTicks": 1600000.0,
+              "durationMilliseconds": 160,
+              "offsetMilliseconds": 3600,
+              "confidence": 0.6725796
+            },
+            {
+              "word": "seat",
+              "offset": "PT3.76S",
+              "duration": "PT0.6S",
+              "offsetInTicks": 37600000.0,
+              "durationInTicks": 6000000.0,
+              "durationMilliseconds": 600,
+              "offsetMilliseconds": 3760,
+              "confidence": 0.28573993
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "jobId": "ac5137c6-e32c-4412-8357-0bd6bbdcb6bb",
+  "lastUpdatedDateTime": "2025-06-19T05:20:43Z",
+  "createdDateTime": "2025-06-19T05:20:41Z",
+  "expirationDateTime": "2025-06-20T05:20:41Z",
+  "status": "succeeded",
+  "errors": [],
+  "displayName": "call_center_2025-06-19 13:20:40.600716",
+  "tasks": {
+    "completed": 2,
+    "failed": 0,
+    "inProgress": 0,
+    "total": 2,
+    "items": [
+      {
+        "kind": "conversationalSummarizationResults",
+        "taskName": "summary_1",
+        "lastUpdateDateTime": "2025-06-19T05:20:43.6267762Z",
+        "status": "succeeded",
+        "results": {
+          "conversations": [
+            {
+              "summaries": [],
+              "id": "conversation1",
+              "warnings": [
+                {
+                  "code": "GenerationFailure",
+                  "message": "Insufficient content to generate summary."
+                },
+                {
+                  "code": "GenerationFailure",
+                  "message": "No relevant summary could be generated."
+                },
+                {
+                  "code": "GenerationFailure",
+                  "message": "Insufficient content to generate summary."
+                },
+                {
+                  "code": "GenerationFailure",
+                  "message": "No relevant summary could be generated."
+                }
+              ]
+            }
+          ],
+          "errors": [],
+          "modelVersion": "latest"
+        }
+      },
+      {
+        "kind": "conversationalPIIResults",
+        "taskName": "PII_1",
+        "lastUpdateDateTime": "2025-06-19T05:20:43.4241911Z",
+        "status": "succeeded",
+        "results": {
+          "conversations": [
+            {
+              "id": "conversation1",
+              "conversationItems": [
+                {
+                  "id": "0",
+                  "redactedContent": {
+                    "itn": "the delicious aroma of freshly baked bread filled the bakery",
+                    "lexical": "the delicious aroma of freshly baked bread filled the bakery",
+                    "text": "The delicious aroma of freshly baked bread filled the bakery."
+                  },
+                  "entities": []
+                }
+              ],
+              "warnings": []
+            }
+          ],
+          "errors": [],
+          "modelVersion": "2024-11-01-preview"
+        }
+      }
+    ]
+  }
+}

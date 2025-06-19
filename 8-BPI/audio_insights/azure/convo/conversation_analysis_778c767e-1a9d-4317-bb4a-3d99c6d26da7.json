@@ -1,0 +1,78 @@
+{
+  "jobId": "f385bdb2-97e0-47d2-a40f-df7c9ee8df20",
+  "lastUpdatedDateTime": "2025-06-19T03:53:44Z",
+  "createdDateTime": "2025-06-19T03:53:42Z",
+  "expirationDateTime": "2025-06-20T03:53:42Z",
+  "status": "succeeded",
+  "errors": [],
+  "displayName": "call_center_2025-06-19 11:53:41.291065",
+  "tasks": {
+    "completed": 2,
+    "failed": 0,
+    "inProgress": 0,
+    "total": 2,
+    "items": [
+      {
+        "kind": "conversationalSummarizationResults",
+        "taskName": "summary_1",
+        "lastUpdateDateTime": "2025-06-19T03:53:44.5328661Z",
+        "status": "succeeded",
+        "results": {
+          "conversations": [
+            {
+              "summaries": [],
+              "id": "conversation1",
+              "warnings": [
+                {
+                  "code": "GenerationFailure",
+                  "message": "Insufficient content to generate summary."
+                },
+                {
+                  "code": "GenerationFailure",
+                  "message": "No relevant summary could be generated."
+                },
+                {
+                  "code": "GenerationFailure",
+                  "message": "Insufficient content to generate summary."
+                },
+                {
+                  "code": "GenerationFailure",
+                  "message": "No relevant summary could be generated."
+                }
+              ]
+            }
+          ],
+          "errors": [],
+          "modelVersion": "latest"
+        }
+      },
+      {
+        "kind": "conversationalPIIResults",
+        "taskName": "PII_1",
+        "lastUpdateDateTime": "2025-06-19T03:53:44.8047198Z",
+        "status": "succeeded",
+        "results": {
+          "conversations": [
+            {
+              "id": "conversation1",
+              "conversationItems": [
+                {
+                  "id": "0",
+                  "redactedContent": {
+                    "itn": "the suspenseful novel kept me on the edge of my seat",
+                    "lexical": "the suspenseful novel kept me on the edge of my seat",
+                    "text": "The suspenseful novel kept me on the edge of my seat."
+                  },
+                  "entities": []
+                }
+              ],
+              "warnings": []
+            }
+          ],
+          "errors": [],
+          "modelVersion": "2024-11-01-preview"
+        }
+      }
+    ]
+  }
+}
