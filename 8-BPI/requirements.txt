@@ -21,6 +21,7 @@ jiwer
 google-cloud-aiplatform
 librosa
 soundfile
+openai-whisper
 
 # deep learning / NLP
 transformers[torch]
