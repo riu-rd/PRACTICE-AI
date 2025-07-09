@@ -30,3 +30,8 @@ hf_xet
 
 azure-storage-blob
 azure-cognitiveservices-speech
+
+openai
+azure-identity
+langchain
+langchain-community
